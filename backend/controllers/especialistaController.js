@@ -1,4 +1,4 @@
-import Especialista from "../models/EspecialistaModel.js";
+// import Especialista from "../models/EspecialistaModel.js";
 
 const obtenerEspecialistas = async (req, res) => {
     try {

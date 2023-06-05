@@ -1,4 +1,4 @@
-import Administrador from "../models/AdministradorModel.js";
+// import Administrador from "../models/AdministradorModel.js";
 
 const obtenerAdministradores = async (req, res) => {
     try {
